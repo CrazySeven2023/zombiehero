@@ -31,6 +31,7 @@ ________________________________________
 We provide key privacy information at or before collection, including categories, purposes, and retention.
 ________________________________________
 4) Why we use data (Purposes & legal bases)
+
 | Purpose                         | Examples                                                                    | Legal basis (EU/UK, if applicable)                                                                                   |
 | ------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | Provide & operate the Services  | run the game; save progress; matchmaking; cloud sync; customer support      | Contract; Legitimate interests (service reliability/diagnostics)                                                     |
@@ -39,6 +40,7 @@ ________________________________________
 | Advertising & measurement       | deliver/measure ads; frequency capping; **personalization where permitted** | **Consent** for personalized ads/tracking; Legitimate interests for non-personalized ads/measurement where permitted |
 | Marketing communications        | email/push about updates/offers (where allowed)                             | Consent, or Legitimate interests with opt-out                                                                        |
 | Compliance & safety             | enforce terms; content moderation; respond to legal requests; age-gates     | Legal obligations; Legitimate interests                                                                              |
+
 ________________________________________
 5) Do we “sell” or “share” personal information?
 We do not sell your personal information for money. Some advertising/analytics integrations may be considered “sharing” for cross-context behavioral advertising under the California Consumer Privacy Act as amended by the CPRA. Where required, we provide in-app and online controls to opt out of sale/share and targeted advertising.
